@@ -100,3 +100,7 @@ server {
 >sudo systemctl reload nginx
 >sudo systemctl start nginx
 >sudo nginx -t
+
+#### Prati Nginx site
+
+http://ec2-3-109-56-116.ap-south-1.compute.amazonaws.com/
